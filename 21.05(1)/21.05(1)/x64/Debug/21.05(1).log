@@ -1,0 +1,5 @@
+﻿  21.05(1).cpp
+C:\Users\LENOVO\source\repos\21.05(1)\21.05(1)\21.05(1).cpp(22,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\LENOVO\source\repos\21.05(1)\21.05(1)\21.05(1).cpp(23,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\LENOVO\source\repos\21.05(1)\21.05(1)\21.05(1).cpp(24,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  21.05(1).vcxproj -> C:\Users\LENOVO\source\repos\21.05(1)\x64\Debug\21.05(1).exe
